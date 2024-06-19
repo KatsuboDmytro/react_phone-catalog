@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "./static/css/main.07c5b34f.css",
+    "main.js": "./static/js/main.ecaedae0.js",
+    "static/media/Mont-Regular.otf": "./static/media/Mont-Regular.1d26d89f7339866d3133.otf",
+    "index.html": "./index.html",
+    "main.07c5b34f.css.map": "./static/css/main.07c5b34f.css.map",
+    "main.ecaedae0.js.map": "./static/js/main.ecaedae0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07c5b34f.css",
+    "static/js/main.ecaedae0.js"
+  ]
+}
